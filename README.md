@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ANZGamingNetworks
+- 👀 I’m interested in developing and sharing custom FiveM scripts for the QBCore Framework. 
+- 🌱 I’m currently learning coding. 
+- 💞️ I’m looking to collaborate on FiveM scripts with other developers
+- 📫 How to reach me - (Email: ANZGamingNetworks@gmail.com) (Discord: ANZGaming#6890)
